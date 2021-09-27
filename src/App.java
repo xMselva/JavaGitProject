@@ -6,7 +6,7 @@ public class App {
         if (args.length > 0)
         {
             System.out.println("The command line"+
-                               " arguments are:");
+                               " arguments are :::");
   
             // iterating the args array and printing
             // the command line arguments
